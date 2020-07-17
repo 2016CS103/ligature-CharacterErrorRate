@@ -1,0 +1,2 @@
+File	T_Char	Cor_Car	Char_Accuracy	Char_Err_R	T_Lig	Cor_Lig	Lig_Accu	Lig_Err_R	
+2.txt	273	220	0.80965364	0.3241456	139	99	0.7147436	0.4185363	
